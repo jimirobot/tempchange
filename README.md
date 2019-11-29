@@ -31,3 +31,7 @@ This section shows the blocks code from the last commit in master.
 * for PXT/microbit
 (The metadata above is needed for package search.)
 
+
+```package
+tools = github:jimirobot/tempchange
+```
